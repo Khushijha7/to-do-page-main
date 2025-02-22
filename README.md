@@ -29,12 +29,11 @@ A simple and interactive To-Do list web app to manage your daily tasks efficient
 - CSS3  
 - JavaScript 
 
-### 📸 Preview  
-![To-Do Page UI](https://via.placeholder.com/800x400?text=To-Do+App+Preview)  
+
+🏆 Credits
+Developed with ❤️ by Khushi K. Jha.
+🔗 GitHub: @Khushijha7
 
 ### 🤝 Contributing  
 Want to enhance this project? Feel free to submit a pull request! 💡  
 
----
-
-Let me know if you want any modifications! 🚀
